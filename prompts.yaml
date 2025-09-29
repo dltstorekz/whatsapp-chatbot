@@ -1,0 +1,2 @@
+greet: "Hello, {{input}}! How can I help you today?"
+help: "Available commands: /greet <name>, /example <text>"
